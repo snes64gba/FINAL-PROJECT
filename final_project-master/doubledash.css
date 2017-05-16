@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Racing+Sans+One');
+@import url('https://fonts.googleapis.com/css?family=Century+Gothic');
+body {
+  background-color: black;
+}
+h1 {
+  font-family: "Racing Sans One";
+  color: gold;
+  font-size: 40px;
+  text-align: center
+}
